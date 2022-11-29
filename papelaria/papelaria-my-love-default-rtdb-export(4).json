@@ -1,0 +1,158 @@
+{
+  "clientes": [
+    null,
+    {
+      "nome": "Maria Zilda",
+      "telefone": "99544-1233"
+    },
+    {
+      "nome": "José Almir",
+      "telefone": "99632-5148"
+    },
+    {
+      "nome": "Helen Fragoso",
+      "telefone": "99605-4213"
+    },
+    {
+      "nome": "Sarah Alves",
+      "telefone": "99845-6321"
+    },
+    {
+      "nome": "Marilia Santos",
+      "telefone": "998470-2361"
+    },
+    {
+      "nome": "David Nascimento",
+      "telefone": "99654-8231"
+    },
+    {
+      "nome": "Sabrina Delmiro",
+      "telefone": "99421-2356"
+    },
+    {
+      "nome": "Larissa Almeida",
+      "telefone": "994041-5263"
+    },
+    {
+      "nome": "Gabriel Medina",
+      "telefone": "94021-5756"
+    },
+    {
+      "nome": "Isabele Rafaela ",
+      "telefone": "998745-3254"
+    }
+  ],
+  "funcionarios": [
+    null,
+    {
+      "email": "myrele.melo@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "log": "Rua Alfredo Venancia"
+      },
+      "funcao": "Atendente",
+      "idade": 22,
+      "nome": "Myrele De Melo",
+      "telefone": "998451-3204"
+    },
+    {
+      "email": "amandasilveira@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "log": "Rua Antonia Morais"
+      },
+      "funcao": "Gerencia",
+      "idade": 35,
+      "nome": "Amanda Silveira Neves",
+      "telefone": "995623-1874"
+    },
+    {
+      "email": "marcia.noronha@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "log": "Rua Carmelo Delninho"
+      },
+      "funcao": "Limpeza",
+      "idade": 28,
+      "nome": "Marcia Noronha",
+      "telefone": "998862-1454"
+    },
+    {
+      "email": "alvarotomas.abreu@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "log": "Rua Santos Bretano"
+      },
+      "funcao": "Manutenção",
+      "idade": 36,
+      "nome": "Alvaro Tomas Abreu",
+      "telefone": "994825-1556"
+    },
+    {
+      "email": "joseluccas.andrade@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "log": "Rua Antonio Domingues"
+      },
+      "funcao": "Atendente",
+      "idade": 24,
+      "nome": "José Luccas Andrade",
+      "telefone": "99456-21838"
+    },
+    {
+      "email": "mariaceliane.torres@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "log": "Rua Alves Tavares"
+      },
+      "funcao": "Manutençao de TI",
+      "idade": 20,
+      "nome": "Maria Celiane Torres",
+      "telefone": "996485-1322"
+    },
+    {
+      "email": "mariasandra.sales@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "log": "Rua Gabrielas Tomalho"
+      },
+      "funcao": "Limpeza",
+      "idade": 23,
+      "nome": "Maria Sandra Sales",
+      "telefone": "994513-2251"
+    },
+    {
+      "email": "sameque.barbosa@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "log": "Rua Ipólito Brasil"
+      },
+      "funcao": "Supervisor",
+      "idade": 30,
+      "nome": "Sameque Barbosa ",
+      "telefone": "996521-2348"
+    },
+    {
+      "email": "gabriely.almeida@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "log": "Rua Sandras Araujo"
+      },
+      "funcao": "Secretaria",
+      "idade": 23,
+      "nome": "Gabriely Almeida",
+      "telefone": "996452-1841"
+    },
+    {
+      "email": "lariciafacundo.jales@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "log": "Rua Mariano Otávio"
+      },
+      "funcao": "Atendente",
+      "idade": 20,
+      "nome": "Larícia Facundo Jales",
+      "telefone": "994523-6858"
+    }
+  ]
+}
